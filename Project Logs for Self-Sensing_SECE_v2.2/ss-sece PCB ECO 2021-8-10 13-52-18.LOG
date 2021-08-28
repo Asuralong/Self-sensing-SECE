@@ -1,0 +1,64 @@
+Removed Member From Class: ClassName=SS_SECE_V2.0 Member=R20
+Removed Member From Class: ClassName=SS_SECE_V2.0 Member=R21
+Removed Member From Class: ClassName=SS_SECE_V2.0 Member=R22
+Change Component Designator: OldDesignator=C5 NewDesignator=C8
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D9 NewDesignator=D3
+Change Component Designator: OldDesignator=D10 NewDesignator=D4
+Change Component Designator: OldDesignator=D19 NewDesignator=D9
+Change Component Designator: OldDesignator=D20 NewDesignator=D10
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=L2 NewDesignator=L1
+Change Component Designator: OldDesignator=Load NewDesignator=Load1
+Change Component Designator: OldDesignator=P_sw NewDesignator=P_sw1
+Change Component Designator: OldDesignator=PZT NewDesignator=PZT1
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q8
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q7
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q2
+Change Component Designator: OldDesignator=R3 NewDesignator=R7
+Change Component Designator: OldDesignator=R4 NewDesignator=R12
+Change Component Designator: OldDesignator=R7 NewDesignator=R13
+Change Component Designator: OldDesignator=R8 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R20 NewDesignator=R10
+Change Component Designator: OldDesignator=R21 NewDesignator=R3
+Change Component Designator: OldDesignator=R22 NewDesignator=R4
+Change Component Designator: OldDesignator=R_test NewDesignator=R_test1
+Change Component Designator: OldDesignator=SW_test NewDesignator=SW_test1
+Change Component Designator: OldDesignator=T1 NewDesignator=T2
+Change Component Designator: OldDesignator=T2 NewDesignator=T1
+Change Component Designator: OldDesignator=T3 NewDesignator=T5
+Change Component Designator: OldDesignator=T5 NewDesignator=T3
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD10_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD19_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetD19_2 New Net Name=NetD9_2
+Change Net Name : Old Net Name=NetD20_1 New Net Name=NetD10_1
+Change Net Name : Old Net Name=NetD20_2 New Net Name=NetD10_2
+Change Net Name : Old Net Name=NetP_sw_2 New Net Name=NetP_sw1_2
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR4_2
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component R11 0
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component R15 10M
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component R16 0
+Added Room: Name=SS_SECE_V2.0

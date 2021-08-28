@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=SS_SECE_V2.0 Member=R3
+Removed Member From Class: ClassName=SS_SECE_V2.0 Member=R4
+Added Pin To Net: NetName=NetT1_2 Pin=T1-2
+Added Pin To Net: NetName=NetT1_2 Pin=T1-3
+Added Pin To Net: NetName=NetT1_2 Pin=T3-1
+Added Net: Name=NetT1_2
+Added Pin To Net: NetName=NetT2_1 Pin=T2-1
+Added Pin To Net: NetName=NetT2_1 Pin=T4-2
+Added Pin To Net: NetName=NetT2_1 Pin=T4-3
+Added Net: Name=NetT2_1
+Added Room: Name=SS_SECE_V2.0

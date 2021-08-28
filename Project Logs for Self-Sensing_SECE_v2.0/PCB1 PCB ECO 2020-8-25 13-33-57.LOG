@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=S1+_S Pin=C5-1
+Removed Pin From Net: NetName=Load+ Pin=C6-2
+Removed Pin From Net: NetName=Load+ Pin=D2-1
+Removed Pin From Net: NetName=S1+_S Pin=D9-2
+Removed Pin From Net: NetName=S1+_S Pin=D10-2
+Removed Pin From Net: NetName=Load+ Pin=Load-2
+Removed Pin From Net: NetName=S3-_G Pin=Q1-1
+Removed Pin From Net: NetName=Load+ Pin=Q1-3
+Removed Pin From Net: NetName=Load+ Pin=Q2-3
+Removed Pin From Net: NetName=S4+_G Pin=Q8-1
+Removed Pin From Net: NetName=Load+ Pin=R11-1
+Removed Pin From Net: NetName=S1+_S Pin=R12-1
+Removed Pin From Net: NetName=Load+ Pin=R13-1
+Change Component Comment : Designator=Q8 Old Comment=ZVN4424GTA New Comment=ZVP4424GTA
+Change Component Comment : Designator=Q1 Old Comment=ZVP4424GTA New Comment=ZVN4424GTA
+Added Pin To Net: NetName=Load+ Pin=D2-2
+Added Pin To Net: NetName=S4+_G Pin=Q1-1
+Added Pin To Net: NetName=S3-_G Pin=Q8-1
+Added Pin To Net: NetName=S1+_S Pin=R11-1
+Added Pin To Net: NetName=Load- Pin=C6-2
+Added Pin To Net: NetName=Load- Pin=Load-2
+Added Pin To Net: NetName=Load- Pin=Q1-3
+Added Pin To Net: NetName=Load- Pin=Q2-3
+Added Pin To Net: NetName=Load- Pin=R12-1
+Added Pin To Net: NetName=Load- Pin=R13-1
+Added Net: Name=Load-
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=D9-2
+Added Pin To Net: NetName=NetC5_1 Pin=D10-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q1-2
+Added Pin To Net: NetName=NetD2_1 Pin=Q1-4
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=Q8-2
+Added Pin To Net: NetName=NetD10_2 Pin=Q8-4
+Added Net: Name=NetD10_2
+Added Room: Name=SS_SECE_V2.0

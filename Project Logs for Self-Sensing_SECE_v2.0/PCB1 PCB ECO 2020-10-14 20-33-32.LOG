@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=I1 Pin=I_test-1
+Removed Pin From Net: NetName=I2 Pin=I_test-2
+Removed Pin From Net: NetName=I3 Pin=I_test-3
+Removed Pin From Net: NetName=I4 Pin=I_test-4
+Removed Pin From Net: NetName=GND Pin=I_test-5
+Change Component Footprint: Designator=I_test Old Footprint=HDR2X4_CEN New Footprint=HDR2X5_CEN
+Change Component Comment : Designator=I_test Old Comment=Header 4X2A New Comment=Header 5X2A
+Change Component Designator: OldDesignator=P1 NewDesignator=SW_test
+Added Pin To Net: NetName=GND Pin=I_test-1
+Added Pin To Net: NetName=I1 Pin=I_test-2
+Added Pin To Net: NetName=I2 Pin=I_test-3
+Added Pin To Net: NetName=I3 Pin=I_test-4
+Added Pin To Net: NetName=I4 Pin=I_test-5
+Added Pin To Net: NetName=GND Pin=I_test-9
+Added Pin To Net: NetName=GND Pin=I_test-10
+Added Room: Name=SS_SECE_V2.0

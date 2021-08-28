@@ -1,0 +1,22 @@
+Added Component: Designator=P_sw(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R_test(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "R_1206_US"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=P_sw-1
+Added Pin To Net: NetName=GND Pin=R_test-2
+Added Pin To Net: NetName=NetP_sw_2 Pin=P_sw-2
+Added Pin To Net: NetName=NetP_sw_2 Pin=R_test-1
+Added Net: Name=NetP_sw_2
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component P_sw Header 2
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component R_test 1k
+Added Room: Name=SS_SECE_V2.0

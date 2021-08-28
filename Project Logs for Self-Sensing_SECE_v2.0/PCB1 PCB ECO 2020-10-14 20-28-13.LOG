@@ -1,0 +1,14 @@
+Added Component: Designator=L2(120uH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "FH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "VLU1012-470KB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C142466"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Inductance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "VLU1012-470KB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PZT+ Pin=L2-1
+Added Pin To Net: NetName=Det Pin=L2-2
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component L2 120uH
+Added Room: Name=SS_SECE_V2.0

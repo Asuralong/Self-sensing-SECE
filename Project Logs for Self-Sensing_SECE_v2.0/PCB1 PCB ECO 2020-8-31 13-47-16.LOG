@@ -1,0 +1,42 @@
+Added Component: Designator=D1(SOD-323)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(SOD-323)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D11(SOD-323)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D12(SOD-323)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D13(SOD-323)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D14(SOD-323)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D15(SOD-323)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D16(SOD-323)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=S1+_G Pin=D1-1
+Added Pin To Net: NetName=S1+_S Pin=D1-2
+Added Pin To Net: NetName=S1-_G Pin=D4-1
+Added Pin To Net: NetName=S1+_S Pin=D4-2
+Added Pin To Net: NetName=S2+_G Pin=D11-1
+Added Pin To Net: NetName=S2+_S Pin=D11-2
+Added Pin To Net: NetName=S2-_G Pin=D12-1
+Added Pin To Net: NetName=S2-_S Pin=D12-2
+Added Pin To Net: NetName=S3+_G Pin=D13-1
+Added Pin To Net: NetName=Load+ Pin=D13-2
+Added Pin To Net: NetName=S3-_G Pin=D14-1
+Added Pin To Net: NetName=Load+ Pin=D14-2
+Added Pin To Net: NetName=S4+_G Pin=D15-1
+Added Pin To Net: NetName=Load- Pin=D15-2
+Added Pin To Net: NetName=S4-_G Pin=D16-1
+Added Pin To Net: NetName=Load- Pin=D16-2
+Change Net Name : Old Net Name=S1+_S New Net Name=GND
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component D1 NSR0240H
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component D4 NSR0240H
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component D11 NSR0240H
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component D12 NSR0240H
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component D13 NSR0240H
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component D14 NSR0240H
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component D15 NSR0240H
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component D16 NSR0240H
+Added Room: Name=SS_SECE_V2.0

@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=Load- Pin=C7-2
+Added Pin To Net: NetName=Load- Pin=Q3-3
+Added Pin To Net: NetName=Load- Pin=Q4-3
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component R3 0
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component R4 0
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component R10 0
+Added Room: Name=SS_SECE_V2.0

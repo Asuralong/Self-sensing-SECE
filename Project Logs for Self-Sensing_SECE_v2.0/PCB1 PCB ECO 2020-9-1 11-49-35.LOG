@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=S2- Pin=T3-2
+Added Pin To Net: NetName=S2+ Pin=T3-4
+Added Pin To Net: NetName=S1- Pin=T3-7
+Added Pin To Net: NetName=S4+ Pin=T3-23
+Added Pin To Net: NetName=S3+ Pin=T3-32
+Added Pin To Net: NetName=S3- Pin=T3-37
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component D5 NSR0240H
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component R4 0
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component T3 TM4C_socket
+Added Room: Name=SS_SECE_V2.0

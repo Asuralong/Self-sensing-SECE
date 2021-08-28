@@ -1,0 +1,14 @@
+Added Component: Designator=D17(SOD-123)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D18(SOD-123)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PZT+ Pin=D17-2
+Added Pin To Net: NetName=Det Pin=D18-2
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Pin To Net: NetName=NetD17_1 Pin=D18-1
+Added Net: Name=NetD17_1
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component D17 MMSZ51T1G
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component D18 MMSZ51T1G
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component L1 47uH
+Added Member To Class: ClassName=SS_SECE_V2.0 Member=Component T3 TM4C_socket
+Added Room: Name=SS_SECE_V2.0

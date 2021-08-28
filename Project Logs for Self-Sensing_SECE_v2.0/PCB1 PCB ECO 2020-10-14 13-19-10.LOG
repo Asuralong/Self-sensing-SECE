@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PZT+ Pin=Q3-2
+Removed Pin From Net: NetName=PZT+ Pin=Q3-4
+Removed Pin From Net: NetName=GND Pin=R7-1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Added Pin To Net: NetName=GND Pin=D12-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=PZT+ Pin=R7-2
+Change Net Name : Old Net Name=GND New Net Name=S2-_S
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-4
+Added Pin To Net: NetName=NetQ3_2 Pin=T5-2
+Added Pin To Net: NetName=NetQ3_2 Pin=T5-3
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=T2-1
+Added Net: Name=NetR7_1
+Added Room: Name=SS_SECE_V2.0
